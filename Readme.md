@@ -21,3 +21,6 @@ Here are the links to the course day by day
 - React Native: https://reactnative.dev/
 - Redux: https://redux.js.org/
 - Jest: https://jestjs.io/
+- A framework and a platform for universal React application: [EXPO](https://docs.expo.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Fastlane](https://docs.fastlane.tools/getting-started/cross-platform/react-native)
