@@ -91,7 +91,8 @@ Let Metro Bundler run in its own terminal. Open a new terminal inside your React
 npx react-native run-ios
 ```
 You should see your new app running in the iOS Simulator shortly.
-[reactnative](./assets/reactnative.png)
+
+![Reactnative](./assets/reactnative.png)
 
 Here the edit APP component at `App.js`
 ```
@@ -135,7 +136,8 @@ const styles = StyleSheet.create({
 
 export default App;
 ```
-[hls](./assets/hls.png)
+
+![Hls](./assets/hls.png)
 
 ## Reference
 **Learning Resources**
