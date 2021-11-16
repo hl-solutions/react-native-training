@@ -3,9 +3,9 @@
 We will build a timeline learn React Native. The target learn understanding React Native, ReactHook and Redux concept. Of course if you have any idea or improvements, you can free create PR and attribute us.
 Here are the links to the course day by day
 
-## Timeline (in 15 days ~ 3 weeks)
+## Timeline (in 16 days ~ 3 weeks)
 
-- [Day 1: ES6+ cheatsheet](./day-1) (1 day)
+- [Day 1: ES6+ cheatsheet](./day-1) (2 days + seminar)
 - [Day 2: React Basic knowledge](./day-2) (2 days)
 - [Day 3: React Component’s Lifecycle Methods](./day-3) (2 days)
 - [Day 4: React Component’s Lifecycle Practice](./day-4) (1 day)
